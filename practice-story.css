@@ -1,0 +1,46 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 62.5%;
+  }
+
+  p, ul, ol, dl {
+    font-size: 1.2rem;
+    line-height: 1.7rem;
+    margin-bottom: 12px;
+    margin-bottom: 20px;
+  }
+
+  article {
+      max-width: 620px;
+      text-align:center;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Ubuntu', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .credit {
+    text-align:right;
+    margin-top: -5px;
+    font-family: Arial, Times, Serif;
+    font-size: 12px;
+  }
+
+  span {
+    font-family: Arial, Times, Serif;
+    font-style: italic;
+    font-size: 15px;
+  }
+  
+  blockquote {
+      border-left: 4px, gray solid, padding 20px;
+      margin-left: 30px; 
+  }
+
+  ol {
+    list-style-position: inside;
+  }
+
+comment-notes {
+  background-color: #CCC;
+}
